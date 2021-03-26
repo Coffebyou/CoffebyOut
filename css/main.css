@@ -101,6 +101,16 @@
     font-size: 40px;
 }
 
+.title-template-website {
+    font-weight: 300;
+    text-align: center;
+}
+
+.img-template-website {
+    width:100%;
+    border-radius: 5px;
+}
+
 
 
 
